@@ -1,0 +1,72 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    background-color: black;
+    height: 200px;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+}
+a{
+    color: white;
+}
+h1{
+    padding: 60px 0px 10px 0px;
+    color: white;
+}
+
+
+.poema{
+
+    background-color: rgb(255, 255, 255);
+    padding:70px 0px 0px 25px;
+    
+}
+
+.pp{
+    color: rgb(0, 0, 0);
+    padding: 0px 0px 10px 0px  ;
+}
+
+.img1{
+    height: 400px;
+    background-image: url(imagens/background001.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    padding: 60px 0px 0px 30px ;
+    margin-top: 30px;
+}
+.img2{
+    height: 400px;
+    background-image: url(imagens/background002.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    padding: 60px 0px 0px 30px ;
+    margin-top: 30px;
+}
+.conteiner1{
+    width: 198px;
+    background-color: rgba(0, 0, 0, 0.418);
+}
+.conteiner2{
+    width: 198px;
+    background-color: rgba(0, 0, 0, 0.363);
+}
+.pimg{
+    color: white;
+    padding: 10px 0px 10px 10px;
+}
+.div1{
+    height: 35px;
+}
+
+footer{
+    margin-top: 20px;
+    background-color: rgb(238, 237, 237);
+    height: 80px;
+}
