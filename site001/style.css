@@ -12,7 +12,7 @@
 
 header{
     background-color: black;
-    height: 200px;
+
     text-align: center;
     color: white;
     font-weight: bolder;
@@ -21,13 +21,17 @@ a{
     color: white;
     font-variant: small-caps;
     font-weight: bolder;
+    
 }
 h1{
     padding: 60px 0px 10px 0px;
     color: white;
     font-family: var(--fonte1);
+    font-size: 8vw;
 }
-
+p{
+    padding-bottom: 20px;
+}
 
 .poema{
 
