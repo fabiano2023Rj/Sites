@@ -12,6 +12,7 @@ header{
 }
 a{
     color: white;
+    font-variant: small-caps;
 }
 h1{
     padding: 60px 0px 10px 0px;
